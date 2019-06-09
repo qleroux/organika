@@ -300,9 +300,20 @@ h1, h2, h3, h4, h5,
   border-radius: 50%;
 }
 
+#section-menu h2{
+  font-weight: 300;
+  color:#333333;
+}
+#section-menu h5{
+  font-family: "Raleway", sans-serif;
+  color:#555555;
+}
 .menu-item .menu-price {
   font-family: "Playfair Display", serif;
-  font-size: 24px;
+  font-size: 20px;
+}
+#section-menu h6.menu-price{
+  color:#777777 !important;
 }
 
 @media screen and (max-width: 768px) {
