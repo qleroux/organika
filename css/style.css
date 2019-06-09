@@ -318,7 +318,16 @@ h1, h2, h3, h4, h5,
 .bg-light {
   background: #darken fafafa, 4% !important;
 }
-
+.bg-suggestion {
+  background-image: url('../images/suggestion.jpg');
+  background-position: bottom center; 
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+.bg-suggestion h2{
+  color: white;
+}
 .site-custom-gutters {
   margin-left: -10px;
   margin-right: -10px;
