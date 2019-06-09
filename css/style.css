@@ -388,8 +388,8 @@ h1, h2, h3, h4, h5,
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active {
-  border-color: #cb8402;
-  background: #cb8402;
+  border-color: #8e0000;
+  background: #8e0000;
 }
 
 .btn.btn-outline-white {
