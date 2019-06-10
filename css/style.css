@@ -308,6 +308,9 @@ h1, h2, h3, h4, h5,
   font-family: "Raleway", sans-serif;
   color:#555555;
 }
+#section-menu p{
+  color:#777777;
+}
 .menu-item .menu-price {
   font-family: "Playfair Display", serif;
   font-size: 20px;
@@ -335,7 +338,12 @@ h1, h2, h3, h4, h5,
   -webkit-background-size: cover;
   background-size: cover;
   color: white;
-  text-shadow: 0px 0px 30px #222222;
+  text-shadow: 
+    0px 0px 150px black,
+    0px 0px 100px black,
+    0px 0px 50px black,
+    0px 0px 15px black,
+    0px 0px 10px black;
 
 }
 .bg-suggestion h2{
