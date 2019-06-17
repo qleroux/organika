@@ -328,6 +328,16 @@ max-width: 900px;
 #section-menu h6.menu-price{
   color:#777777 !important;
 }
+.minilogo{
+    background-image: url('../images/logo.png');
+    -webkit-background-size: cover;
+    background-size: cover;
+    height:17px;
+    min-width: 270px;
+}
+.awake .minilogo{
+   background-image: url('../images/logo_black.png');
+}
 
 @media screen and (max-width: 768px) {
   .display-4 {
