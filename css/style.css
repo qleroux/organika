@@ -164,6 +164,7 @@ h1, h2, h3, h4, h5,
   -webkit-transition: .3s all ease-out;
   -o-transition: .3s all ease-out;
   transition: .3s all ease-out;
+  border-bottom: 1px solid #E5E5E5 !important;
 }
 
 .site-navbar-light.scrolled.sleep {
