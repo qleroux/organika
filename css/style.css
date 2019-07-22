@@ -309,7 +309,8 @@ margin-bottom: 10px;
 }
 
 .menu-item {
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;*/
+  text-align: center;
 }
 
 .menu-item img {
@@ -320,13 +321,25 @@ margin-bottom: 10px;
 #section-menu h2{
   font-weight: 300;
   color:#333333;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
 }
 #section-menu h5{
   font-family: "Raleway", sans-serif;
   color:#555555;
 }
+#section-menu h6{
+  text-align: center;
+  font-style: italic;
+  margin-top: -10px;
+margin-bottom: 20px;
+}
 #section-menu p{
-  color:#777777;
+  color:#444444;
+  margin-bottom: 0;
 }
 .menu-item .menu-price {
   font-family: "Playfair Display", serif;
