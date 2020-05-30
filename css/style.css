@@ -391,8 +391,11 @@ margin-bottom: 20px;
     0px 0px 10px black;
 
 }
-.bg-suggestion h2{
+.bg-suggestion h2, .bg-suggestion a{
   color: white;
+}
+.bg-suggestion a{
+  border : 1px solid white;
 }
 .site-custom-gutters {
   margin-left: -10px;
