@@ -358,7 +358,7 @@ margin-bottom: 20px;
     -webkit-background-size: cover;
     background-size: cover;
     height:15px;
-    min-width: 240px;
+    min-width: 125px;
 }
 .awake .minilogo{
    background-image: url('../images/logo_black.png');
